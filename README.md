@@ -35,7 +35,7 @@
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/paultojo183
-- Email: your-paultojo183@gmail.com
+- Email: paultojo183@gmail.com
 
 ---
 ⭐ Feel free to explore my repositories and connect with me!
