@@ -1,4 +1,4 @@
-# Hi 👋, I'm Paul Tojo
+# Hi 👋, I'm Paul Tojo Panikulam
 
 🎓 EEE Graduate | 📊 Data Science Enthusiast | 💻 Python Developer
 
